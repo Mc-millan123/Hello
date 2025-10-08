@@ -1,3 +1,4 @@
+<h1>hello g[ithub</h1>
 <?php
 if(isset($_POST['submit']))
 {
