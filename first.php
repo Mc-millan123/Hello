@@ -1,5 +1,5 @@
 <h1>hello g[ithub</h1>
-<p>they where the path of the of the application </p>
+<p>they where the path of the of the application  sai nithish wassoo good</p>
 <?php
 if(isset($_POST['submit']))
 {
